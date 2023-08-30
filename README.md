@@ -2,9 +2,9 @@
 
 
 <a href="https://github.com/GuiCMoreira/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiCMoreira&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiCMoreira&theme=gruvbox" />
 </a>
-  <a href="https://github.com/GuiCMoreira/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMoreira&layout=compact&langs_count=8&card_width=320&theme=merko" /></a>
+  <a href="https://github.com/GuiCMoreira/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMoreira&layout=compact&langs_count=8&card_width=320&theme=gruvbox" /></a>
 
 
 ### Socials 🎀
