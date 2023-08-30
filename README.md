@@ -1,5 +1,8 @@
-## Olá, eu sou o Guilherme Carvalho 👋
+### Olá, eu sou o Guilherme Carvalho 👋
+###### Sou estudante de Análise e Desenvolvimento de Sistemas da instituição FATEC de Bragança Paulista
+###### Uso o GitHub para salvar meus projetos escolares e pessoais 😀
 
+##
 
 <a href="https://github.com/GuiCMoreira/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiCMoreira&theme=tokyonight" />
