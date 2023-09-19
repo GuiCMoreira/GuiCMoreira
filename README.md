@@ -11,7 +11,7 @@
 
 ### Tecnologias que estudo: 
 
-![skills](https://skillicons.dev/icons?i=html,css,js,python)
+![skills](https://skillicons.dev/icons?i=java,html,css,js,python)
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
