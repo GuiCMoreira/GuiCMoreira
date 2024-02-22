@@ -11,7 +11,7 @@
 
 ### Tecnologias que estudo: 
 
-![skills](https://skillicons.dev/icons?i=java,html,css,js,python,php,react,reactjs,typescript)
+![skills](https://skillicons.dev/icons?i=java,html,css,js,python,php,react,typescript)
 
 ##
 
