@@ -14,8 +14,6 @@
 
 **Eliteh Admin** — ERP interno da Eliteh Protect, com módulos de Estoque, Serviços, RH e Financeiro, construído em Next.js (App Router) + Supabase, incluindo exportação de relatórios em PDF. *(sistema interno, repositório privado)*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiCMoreira&theme=tokyonight&hide_border=true" alt="streak stats" />
-
 ### Tecnologias que uso
 
 ![skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,nestjs,tailwind,postgres,supabase,vercel,figma,docker)
