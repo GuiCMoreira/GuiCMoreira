@@ -27,7 +27,7 @@ Plataforma colaborativa onde jogadores publicam, avaliam e encontram estratégia
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PHPStan](https://img.shields.io/badge/PHPStan_nível_6-4F5B93?style=flat-square)
 
-#### 🍽️ [Sistema de Cardápio Digital](https://github.com/GuiCMoreira/restaurant-digital) · [demo](https://restaurant-digital.vercel.app)
+#### 🍽️ [Sistema de Cardápio Digital](https://github.com/GuiCMoreira/restaurant-digital) · [demo](https://restaurant-digital-web.vercel.app)
 
 Cardápio digital para restaurantes com arquitetura de microsserviços orientada a eventos (pedidos, cozinha, vendas e notificações conversando via RabbitMQ), múltiplos frontends em Next.js e infraestrutura em produção.
 
