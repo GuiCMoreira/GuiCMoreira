@@ -6,6 +6,7 @@
 
 Construo aplicações web com Next.js, TypeScript e PostgreSQL — do front ao banco de dados 🚀
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-GuiOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://guicmoreira.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-carvalho-moreira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui0307carvalho@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511949911535)
@@ -37,6 +38,25 @@ Cardápio digital para restaurantes com arquitetura de microsserviços orientada
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+#### 💸 [my_finance](https://github.com/GuiCMoreira/my_finance)
+
+Controle financeiro para quem divide o cartão com outras pessoas: mostra, com data, se o mês fecha, quanto da fatura volta como reembolso e quanto custa rolar a fatura. Regras de negócio numa camada pura, sem banco nem React, coberta por testes — dinheiro em centavos inteiros e datas sem fuso.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+#### 🖥️ [GuiOS](https://github.com/GuiCMoreira/guios) · [abrir](https://guicmoreira.vercel.app)
+
+Meu portfólio em forma de sistema operacional: janelas arrastáveis e redimensionáveis, dock, terminal interativo, Safari que lê a API do GitHub e command palette (⌘K). No celular, vira um smartphone. Bilíngue e com tema claro e escuro.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FFF312?style=flat-square&logo=framer&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
 #### 🛡️ [Eliteh Protect](https://elitehprotect.com)
 
