@@ -39,7 +39,7 @@ Cardápio digital para restaurantes com arquitetura de microsserviços orientada
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-#### 💸 [Caixa](https://github.com/GuiCMoreira/financemy)
+#### 💸 [FinanceMy](https://github.com/GuiCMoreira/financemy)
 
 Controle financeiro self-hosted para quem divide o cartão com outras pessoas: diz, **com data**, em que dia o saldo fica negativo e quanto da fatura volta como reembolso de terceiros. Regras de negócio numa camada pura — sem banco e sem React — com 85 testes que cobrem as decisões, não só o caminho feliz: dinheiro em centavos inteiros, datas sem fuso horário e gráficos em SVG escritos à mão. Sobe inteiro, com banco e dados de demonstração, em um `docker compose up`.
 
