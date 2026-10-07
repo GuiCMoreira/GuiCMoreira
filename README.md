@@ -39,15 +39,16 @@ Cardápio digital para restaurantes com arquitetura de microsserviços orientada
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-#### 💸 [my_finance](https://github.com/GuiCMoreira/my_finance)
+#### 💸 [Caixa](https://github.com/GuiCMoreira/financemy)
 
-Controle financeiro para quem divide o cartão com outras pessoas: mostra, com data, se o mês fecha, quanto da fatura volta como reembolso e quanto custa rolar a fatura. Regras de negócio numa camada pura, sem banco nem React, coberta por testes — dinheiro em centavos inteiros e datas sem fuso.
+Controle financeiro self-hosted para quem divide o cartão com outras pessoas: diz, **com data**, em que dia o saldo fica negativo e quanto da fatura volta como reembolso de terceiros. Regras de negócio numa camada pura — sem banco e sem React — com 85 testes que cobrem as decisões, não só o caminho feliz: dinheiro em centavos inteiros, datas sem fuso horário e gráficos em SVG escritos à mão. Sobe inteiro, com banco e dados de demonstração, em um `docker compose up`.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### 🖥️ [GuiOS](https://github.com/GuiCMoreira/guios) · [abrir](https://guicmoreira.vercel.app)
 
