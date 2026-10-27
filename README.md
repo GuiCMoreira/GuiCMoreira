@@ -59,6 +59,15 @@ Meu portfólio em forma de sistema operacional: janelas arrastáveis e redimensi
 ![Motion](https://img.shields.io/badge/Motion-FFF312?style=flat-square&logo=framer&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
+#### 📺 [Projetor Android otimizado](https://github.com/GuiCMoreira/projetor-android-otimizado)
+
+Encontrei um adware rodando escondido no meu projetor Android, instalado pela própria tela inicial do fabricante. Liberei o ADB que o fabricante escondia, fiz uma limpeza reversível e escrevi do zero um launcher em Kotlin **sem nenhuma biblioteca**, no estilo macOS: Dock de vidro, Central de Controle, clima, "Continuar assistindo" com o que estava passando nos apps de streaming e descanso de tela inspirado na tela de bloqueio do Mac. Usa 35% menos memória que o launcher original e não roda nada em segundo plano. O repositório é um tutorial passo a passo, com cada dificuldade do caminho, para quem tem uma TV ou projetor Android lento.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-555555?style=flat-square&logo=android&logoColor=white)
+![Testes](https://img.shields.io/badge/97_testes-00DD16?style=flat-square)
+
 #### 🛡️ [Eliteh Protect](https://elitehprotect.com)
 
 Site institucional da empresa de segurança patrimonial da família, construído em Next.js.
@@ -79,5 +88,5 @@ ERP interno da Eliteh Protect, com módulos de Estoque, Serviços, RH e Financei
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,nestjs,tailwind&perline=7" alt="Next.js, TypeScript, JavaScript, React, Node.js, NestJS, Tailwind"><br>
-  <img src="https://skillicons.dev/icons?i=php,postgres,supabase,redis,rabbitmq,docker,vercel,figma&perline=8" alt="PHP, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Vercel, Figma">
+  <img src="https://skillicons.dev/icons?i=php,kotlin,postgres,supabase,redis,rabbitmq,docker,vercel,figma&perline=9" alt="PHP, Kotlin, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Vercel, Figma">
 </p>
