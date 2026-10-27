@@ -66,7 +66,7 @@ Encontrei um adware rodando escondido no meu projetor Android, instalado pela pr
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-555555?style=flat-square&logo=android&logoColor=white)
-![Testes](https://img.shields.io/badge/97_testes-00DD16?style=flat-square)
+![Testes](https://img.shields.io/badge/106_testes-00DD16?style=flat-square)
 
 #### 🛡️ [Eliteh Protect](https://elitehprotect.com)
 
